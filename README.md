@@ -1,2 +1,2 @@
 # Publications
-List of publications and reports
+List of peer reviewed publications and technical reports.
